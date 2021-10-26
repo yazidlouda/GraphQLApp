@@ -1,0 +1,7 @@
+query countries{
+country(code:"US"){
+name
+capital
+emoji
+}
+}
